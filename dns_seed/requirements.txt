@@ -1,0 +1,6 @@
+python-daemon==2.3.0
+jsonpickle==2.0.0
+pycryptodome==3.11.0
+hashlib==20081119
+ecdsa==0.17.0
+pycryptodomex==3.11.0
